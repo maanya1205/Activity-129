@@ -1,0 +1,44 @@
+.heading{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+}
+.note{
+    font-size: 15px;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-size: cover;
+}
+.div_speed{
+    float: left;
+}
+.div_speed img{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed{
+    font-size: 23px;
+    margin: 15px;
+}
+#volume{
+font-size: 23px;
+margin: 15px;
+}
+.div_volume_img{
+    width: 200px;
+    border-radius: 100px;
+
+}
+.div_volume{
+    float: right;
+}
+.play_button{
+    width: 130px;
+    font-size: 25px;
+}
+canvas{
+    border: 5px solid springgreen;
+    border-radius: 20;
+}
